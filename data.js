@@ -1,4 +1,4 @@
-export const animalsToAdopt = [
+const animalsToAdopt = [
     {
         name: "Lucky",
         picture: "https://placekitten.com/200/287",
@@ -21,4 +21,4 @@ export const animalsToAdopt = [
     },
 ];
 
-export const myName = "Orwa";
+export default animalsToAdopt;
